@@ -8,3 +8,11 @@
 #### TP2: Encaminhamento de Tráfego [Protocolo RIP]
 * Enunciado: [Aqui](https://github.com/simaocunha71/iri/blob/main/tp2/enunciado.pdf)
 * Relatório: [Aqui](https://github.com/simaocunha71/iri/blob/main/tp2/IRI-TP2-Grupo_4.pdf)
+
+#### TP3: Encaminhamento de Tráfego [Protocolo OSPF]
+* Enunciado: [Aqui](https://github.com/simaocunha71/iri/blob/main/tp3/enunciado.pdf)
+* Relatório: [Aqui](https://github.com/simaocunha71/iri/blob/main/tp3/IRI-TP3-Grupo_4.pdf)
+
+#### TP4: Encaminhamento de Tráfego [Protocolo BGP e outros]
+* Enunciado: [Aqui](https://github.com/simaocunha71/iri/blob/main/tp4/enunciado.pdf)
+* Relatório: Soon
