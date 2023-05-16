@@ -15,4 +15,4 @@
 
 #### TP4: Encaminhamento de Tráfego [Protocolo BGP e outros]
 * Enunciado: [Aqui](https://github.com/simaocunha71/iri/blob/main/tp4/enunciado.pdf)
-* Relatório: Soon
+* Relatório: [Aqui](https://github.com/simaocunha71/iri/blob/main/tp4/IRI-TP4-Grupo_4.pdf)
